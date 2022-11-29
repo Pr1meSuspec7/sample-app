@@ -1,5 +1,4 @@
 # Add to this file for the sample app lab
-# 
 from flask import Flask
 from flask import request
 from flask import render_template
